@@ -3,14 +3,15 @@
 
 ![IfoodGIF](https://user-images.githubusercontent.com/105497075/193562748-8d1bb9a2-d3e3-41e3-9a87-2c94a6ba8320.gif)
 
-## Restaurante API
-# Sacola API para Servir uma Aplicação com Domínio de Delivery
+# Restaurante API
 
-![IfoodFomeGIF](https://user-images.githubusercontent.com/105497075/193562923-e094017d-bca3-49b7-af89-33723150baf5.gif)
+## Sacola API para Servir uma Aplicação com Domínio de Delivery
 
 
-## ![iFOOD 2](https://user-images.githubusercontent.com/105497075/193559266-4e2e5cdf-4d29-46a7-8a41-41865dfc6e09.png)
-## ![ifood](https://user-images.githubusercontent.com/105497075/193559615-443d3b43-e8c5-4dad-b097-6e78ea49e2c4.png)
+### ![iFOOD 2](https://user-images.githubusercontent.com/105497075/193559266-4e2e5cdf-4d29-46a7-8a41-41865dfc6e09.png)
+
+#### ![ifood](https://user-images.githubusercontent.com/105497075/193559615-443d3b43-e8c5-4dad-b097-6e78ea49e2c4.png)
+
 ##### Fonte: ![BookSchoolGIF](https://user-images.githubusercontent.com/105497075/193561182-88988f2c-63f1-4ca5-86f3-fb55d1a59f19.gif)
 
 # Incluir itens na sacola Visualizar sacola Fechar sacola Excluir item da sacola Demostração da Aplicação Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:

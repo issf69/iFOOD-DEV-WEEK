@@ -1,9 +1,13 @@
 # IFOOD-DEV-WEEK ![IfoodPedepraganharGIF](https://user-images.githubusercontent.com/105497075/193561460-df0ee37d-c21d-42aa-9dea-44d34b641884.gif)
-![LauraCardosoSacoGIF](https://user-images.githubusercontent.com/105497075/193561581-7cce096b-a0ca-4b51-8113-14046c57e960.gif)
-![LauraCardosoIfoodGIF](https://user-images.githubusercontent.com/105497075/193561658-5599824d-34d4-460f-8162-3b0c804eeab6.gif)
+
+
+![IfoodGIF](https://user-images.githubusercontent.com/105497075/193562748-8d1bb9a2-d3e3-41e3-9a87-2c94a6ba8320.gif)
 
 ## Restaurante API
 # Sacola API para Servir uma Aplicação com Domínio de Delivery
+
+![IfoodFomeGIF](https://user-images.githubusercontent.com/105497075/193562923-e094017d-bca3-49b7-af89-33723150baf5.gif)
+
 
 ## ![iFOOD 2](https://user-images.githubusercontent.com/105497075/193559266-4e2e5cdf-4d29-46a7-8a41-41865dfc6e09.png)
 ## ![ifood](https://user-images.githubusercontent.com/105497075/193559615-443d3b43-e8c5-4dad-b097-6e78ea49e2c4.png)

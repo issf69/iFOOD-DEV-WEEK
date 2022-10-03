@@ -4,8 +4,8 @@
 
 ## ![iFOOD 2](https://user-images.githubusercontent.com/105497075/193559266-4e2e5cdf-4d29-46a7-8a41-41865dfc6e09.png)
 ## ![ifood](https://user-images.githubusercontent.com/105497075/193559615-443d3b43-e8c5-4dad-b097-6e78ea49e2c4.png)
-#### 
-#Fonte: Incluir itens na sacola Visualizar sacola Fechar sacola Excluir item da sacola Demostração da Aplicação Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:
+##### Fonte: 
+# Incluir itens na sacola Visualizar sacola Fechar sacola Excluir item da sacola Demostração da Aplicação Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:
 
 Ferramenta Versão Java JDK 8+ Git 2.** Gradle 7.** Postman 9.** ** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE ** No Terminal/Console:
 

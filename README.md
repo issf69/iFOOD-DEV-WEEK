@@ -1,16 +1,19 @@
-# IFOOD-DEV-WEEK ![IfoodPedepraganharGIF](https://user-images.githubusercontent.com/105497075/193561460-df0ee37d-c21d-42aa-9dea-44d34b641884.gif)
+##  <p align="center"> IFOOD-DEV-WEEK 
+#   <p align="center">  ![IfoodPedepraganharGIF](https://user-images.githubusercontent.com/105497075/193561460-df0ee37d-c21d-42aa-9dea-44d34b641884.gif)
+<p align="center">
 
-## ![IfoodGIF](https://user-images.githubusercontent.com/105497075/193562748-8d1bb9a2-d3e3-41e3-9a87-2c94a6ba8320.gif)
 
-### Restaurante API
+##  <p align="center"> ![IfoodGIF](https://user-images.githubusercontent.com/105497075/193562748-8d1bb9a2-d3e3-41e3-9a87-2c94a6ba8320.gif)
 
-#### Sacola API para Servir uma Aplicação com Domínio de Delivery
+##  <p align="center"> Restaurante API
 
-##### ![IfoodFomeGIF (2)](https://user-images.githubusercontent.com/105497075/193563385-62bf0194-7cd6-43c6-866d-bf9401597e48.gif)
 
-####### Fonte: 
+##  <p align="center"> Sacola API para Servir uma Aplicação com Domínio de Delivery
 
-######## ![BookSchoolGIF](https://user-images.githubusercontent.com/105497075/193561182-88988f2c-63f1-4ca5-86f3-fb55d1a59f19.gif)
+##   <p align="center">![IfoodFomeGIF (2)](https://user-images.githubusercontent.com/105497075/193563385-62bf0194-7cd6-43c6-866d-bf9401597e48.gif)
+
+## <p align="center"> Fonte: 
+##  <p align="center">![BookSchoolGIF](https://user-images.githubusercontent.com/105497075/193561182-88988f2c-63f1-4ca5-86f3-fb55d1a59f19.gif)
 
 # Incluir itens na sacola Visualizar sacola Fechar sacola Excluir item da sacola Demostração da Aplicação Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:
 
